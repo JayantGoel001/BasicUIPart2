@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sherlocked1</string>
+    <string name="title_activity_sherlocked12">Sherlocked12</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="time">Time</string>
+    <string name="calendar">Calendar</string>
+    <string name="cow">Cow</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="add">ADD</string>
+    <string name="milk">Milk</string>
+    <string name="tea">TEA</string>
+    <string name="coffee">Coffee</string>
+    <string name="swap">Swap</string>
+</resources>
